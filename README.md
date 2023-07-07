@@ -1,4 +1,4 @@
-# Compilatorio de Códigos para el Conteo de Afluencia de Personas
+# Compilatorio de códigos para el conteo de afluencia de personas
 
 Este es un compilatorio de códigos utilizados para el conteo de la afluencia de personas. Se emplea uso de sensores infrarrojos, ultrasonidos, protocolos de comunicación como ESP-NOW y MQTT, y placas como ESP01 y ESP32. Los códigos proporcionados te permitirán implementar soluciones de conteo de personas en diferentes entornos y con distintos enfoques.
 
