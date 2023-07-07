@@ -1,4 +1,4 @@
-# Ultrasonic Sensor
+# Sensor Ultrasonico
 
 Este proyecto utiliza una placa ESP32 y un sensor ultrasónico para medir la distancia. El sensor ultrasónico emite ondas de sonido y mide el tiempo que tarda en recibir el eco de las ondas reflejadas en un objeto, lo que permite calcular la distancia al objeto.
 
